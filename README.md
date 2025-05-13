@@ -1,6 +1,6 @@
 # causal_reward_shaping_gifs
 
-# State 1
+# State 1 - Seed 7890
 
 Baseline: 
 
