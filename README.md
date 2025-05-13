@@ -8,7 +8,7 @@ Baseline:
 
 Causal:
 
-
+![causal_1](causal_1.gif)
 
 Non-Causal:
 
