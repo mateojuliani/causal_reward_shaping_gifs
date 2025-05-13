@@ -4,8 +4,12 @@
 
 Baseline: 
 
-![test](causaldim1.gif)
+![state_remove_1](state_remove_1.gif)
 
 Causal:
 
+
+
 Non-Causal:
+
+![state_remove_1](non_causal_1.gif)
