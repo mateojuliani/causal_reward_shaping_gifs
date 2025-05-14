@@ -10,6 +10,9 @@ Causal:
 
 ![causal_1](causal5678910.gif)
 
+Non Causal:
+
+![non_causal](non_causal_5678910.gif)
 
 ## State 1 Removed
 
