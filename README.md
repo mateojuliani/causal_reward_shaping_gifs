@@ -1,6 +1,11 @@
 # causal_reward_shaping_gifs
 
-## State 1 Removed - Seed 7890
+## State 5 6 7 8 9 10 Removed 
+
+
+
+
+## State 1 Removed
 
 Baseline: 
 
@@ -15,7 +20,7 @@ Non-Causal:
 ![non_causal_1](non_causal_1.gif)
 
 
-## State 7 Removed - Seed 401
+## State 7 Removed
 
 
 
