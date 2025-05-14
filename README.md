@@ -21,10 +21,11 @@ Non-Causal:
 
 Baseline: 
 
-![state_remove_7](state_remove_7.gif)![causal_7](causal7.gif)![state_remove_7](non_causal_7.gif)
+![state_remove_7](state_remove_7.gif)
 
 Causal:
 
-
+![causal_7](causal7.gif)
 
 Non-Causal:
+![non_causal_7](non_causal_7.gif)
