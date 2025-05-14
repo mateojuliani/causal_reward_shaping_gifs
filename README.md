@@ -2,7 +2,13 @@
 
 ## State 5 6 7 8 9 10 Removed 
 
+Baseline: 
 
+![state_remove_1](stateremove5678910.gif)
+
+Causal:
+
+![causal_1](causal5678910.gif)
 
 
 ## State 1 Removed
