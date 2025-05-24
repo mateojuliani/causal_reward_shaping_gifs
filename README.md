@@ -8,7 +8,7 @@ The baseline agent ends up learning a policy that is too aggressive, and consequ
 
 ![state_remove_1](stateremove5678910.gif)
 
-Causal:
+Causal (Ours):
 On the other hand, the causal agent learns a more conservative strategy, allowing it to hop for longer.
 ![causal_1](causal5678910.gif)
 
@@ -22,7 +22,7 @@ Baseline:
 
 ![state_remove_1](state_remove_1.gif)
 
-Causal:
+Causal (Ours):
 
 ![causal_1](causal_1.gif)
 
@@ -39,7 +39,7 @@ Baseline:
 
 ![state_remove_7](state_remove_7.gif)
 
-Causal:
+Causal (Ours):
 
 ![causal_7](causal7.gif)
 
